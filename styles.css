@@ -1,0 +1,129 @@
+#header {
+	background-color: #E58E13;
+	padding: 20px;
+	color: black;
+	float: center;
+	border: solid black 1px;
+	border-top: none;
+}
+#header img{
+	border: 10px double white;
+	position: absolute;
+	left: 30px;
+	
+}
+nav{
+  background-color: #E3BA0F;
+  overflow: hidden;
+  height: 40px;
+  margin: 0px;
+  padding: 0px;
+	
+}
+nav a {
+	float: left;
+  color: #9d0208;
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
+  vertical-align: center;
+  white-space: nowrap;
+}
+a.menu:link, a.menu:visited {
+	background-color: #EEC61F;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  height: 50px;
+  width: 80px;
+  border: solid black 1px;
+  
+}
+a.menu:hover, a.menu:active {
+	background-color: #E3BA0F;
+}
+
+
+
+body{
+	background-color: white;
+	font-family: Helvetica, sans-serif, Arial;
+}
+
+article {
+	margin-right: 500px;
+	
+}
+article p{
+	font-size: 20px;
+	font-style: georgian;
+}
+article img {
+	border: 2px solid black;
+	position: absolute;
+}
+
+h1{
+	font-family: Verdana;
+	font-size: 40px; 
+	color: #111111; 
+	border-width: 3px;
+	border-color: #039; 
+	height: 30px; 
+	text-decoration:underline; 
+	text-align: center;
+}
+h3
+{
+	font-size: 24px;
+	text-decoration: underline;
+	line-height: 1.25em;
+	
+	
+}
+p{
+	margin-left: 100px;
+	margin-top: 40px;
+}
+
+
+
+#page {
+	text-align: center;
+	background-color: white;
+}
+#links{
+	background-color: white;
+	border: 2px solid black;
+	padding: 20px;
+}
+#YoutubeVideo{
+	position:absolute;
+	right: 20px;
+	margin-left: 40px;
+}
+
+
+
+#bottom{
+	position: absolute;
+	background-color: #E58E13;
+	bottom: 5px;
+	right: 25px;
+	text-align: center;
+	border-radius: 20px;
+	padding: 5px;
+	
+}
+
+
+
+.list {
+	text-align: left;
+	position: absolute;
+}
+
+
+
